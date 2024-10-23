@@ -1,2 +1,0 @@
-# MealFinder
-Created with CodeSandbox
